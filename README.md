@@ -12,3 +12,13 @@ In Firefox, in the search bar, type about:profiles, and press enter.
 Bellow the "default-release, there should be a Root Directory path. Press Open Directory.
 Paste the "chrome" folder.
 
+For better compatibility, I put multiple icon packs.
+
+How to apply the Icon Pack(s):
+
+Extract the Icons.7z file. You should have a folder named "icons".
+Copy the contents of the "icons" folder.
+(Replace $USER with your user):
+Paste the contents in the next path: /home/$USER/.local/share/icons/
+From System Settings, Apply the "Windows XP" icon pack.
+
