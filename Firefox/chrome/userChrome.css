@@ -1,0 +1,19 @@
+@import "icons.css";
+@import "tabs.css";
+@import "statusbar.css";
+@import "toolbars.css";
+@import "toolbar_icons.css";
+@import "urlbar.css"; 
+@import "colors.css";
+@import "iconized_main_menu.css";
+@import "tighten_up_menus.css";
+
+#main-window {
+   background-color: var(--bg_color) !important;
+   color: var(--fg_color) !important;
+}
+
+:root{ --arrowpanel-background: #eeead6 !important; }
+#appMenu-popup{ --arrowpanel-background: #eeead6 }
+
+
