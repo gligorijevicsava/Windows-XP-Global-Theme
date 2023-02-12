@@ -22,3 +22,14 @@ Copy the contents of the "icons" folder.
 Paste the contents in the next path: /home/$USER/.local/share/icons/
 From System Settings, Apply the "Windows XP" icon pack.
 
+Colour Scheme:
+
+Inside the "desktoptheme" folder, copy the "WinXP" folder, and paste it into:
+(replace $USER with your username)
+/home/$USER/.local/share/plasma/desktoptheme/
+
+Splash Screen:
+
+Copy the "WinXP-splash-screen-english" folder, and paste it into:
+(replace $USER with your username)
+/home/$USER/.local/share/plasma/look-and-feel/
